@@ -1,0 +1,32 @@
+<style>
+            body {
+              background-image:url('pika.jpg');
+            }  
+            </style>
+            
+            <style>
+            p{
+              background-image:url('sadsadsad.jpg');
+            }  
+            </style>
+<html>
+    <head>
+    <title>Gabriel</title></head>
+    <font face="bold"
+    <p>Paragraph</p> 
+    <b>bold</b>
+    <i>Italic</i>
+    <u>Underline</u>
+    <<h1>Heading</h1>
+    <b>MARK</b>
+    <font face = "Algerian"
+    <font size = "30">MARK</font>
+    <font color ="cyan">MARK</font>
+    <marquee>wohoo wohoo</marquee>
+    <marquee
+  direction="down"
+  width="250"
+  height="200"
+  behavior="alternate"
+  style="border:solid">
+  <marquee behavior="alternate">This text will bounce</marquee>
